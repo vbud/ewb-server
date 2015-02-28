@@ -1,0 +1,11 @@
+{
+  "name": "ewb-server",
+  "version": "0.0.1",
+  "description": "ewhiteboard server",
+  "dependencies": {
+    "lodash": "~3.3.0",
+    "node-uuid": "~1.4.2",
+    "socket.io": "~1.3.4",
+    "rethinkdb": "~1.16.0"
+  }
+}
