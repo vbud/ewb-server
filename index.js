@@ -15,7 +15,7 @@ var port = 3000;
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 if( process.env.NODE_ENV === 'production') {
-  port = 80;
+  port = 9000;
 }
 
 
